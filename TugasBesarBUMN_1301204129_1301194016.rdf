@@ -1,0 +1,631 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia/"
+     xml:base="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:TubesBUMNdiIndonesia="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#DasarHukum -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#DasarHukum"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#DokumenPersyaratan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#DokumenPersyaratan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#IsiPeraturan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#IsiPeraturan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#JenisProduk -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#JenisProduk"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#JenisRekrutment -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#JenisRekrutment"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#NamaDagang -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#NamaDagang"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#NamaPerusahaan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#NamaPerusahaan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#NoPeraturan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#NoPeraturan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PenyediaProduk -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PenyediaProduk"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#ProdukAsuransi -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#ProdukAsuransi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Terletakdi -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Terletakdi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#TingkatPersaingan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#TingkatPersaingan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#TipeJasa -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#TipeJasa"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#WaktuPelayanan -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#WaktuPelayanan"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Badan_Usaha -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Badan_Usaha"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jalur_Masuk_BUMN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jalur_Masuk_BUMN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Asuransi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Asuransi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_BUMN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_BUMN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Product_BUMN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Product_BUMN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor_Badan_Usaha -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor_Badan_Usaha"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Standar_Pelayanan_BUMN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Standar_Pelayanan_BUMN"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Harta_Benda -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Harta_Benda"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Kecelakaan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Kecelakaan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Pengangkutan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Pengangkutan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Tanggung_Jawab -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Tanggung_Jawab"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Bahan_Bakar_Minyak -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Bahan_Bakar_Minyak"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Disabilitas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Disabilitas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jalur_Masuk_BUMN"/>
+        <TubesBUMNdiIndonesia:JenisRekrutment rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Khusus_Individu_Disabilitas"/>
+        <TubesBUMNdiIndonesia:TingkatPersaingan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sedang"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Farmasi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Farmasi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Hari_Kerja_dan_Jam_Kerja_Instansi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Hari_Kerja_dan_Jam_Kerja_Instansi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Indihome -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Indihome">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Product_BUMN"/>
+        <TubesBUMNdiIndonesia:JenisProduk rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Telekomunikasi"/>
+        <TubesBUMNdiIndonesia:PenyediaProduk rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Telkom_Indonesia"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jamkrindo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jamkrindo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Asuransi"/>
+        <TubesBUMNdiIndonesia:ProdukAsuransi rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peminjaman_Kredit_Usaha"/>
+        <TubesBUMNdiIndonesia:ProdukAsuransi rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peminjaman_Umum"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jasa_Raharja -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jasa_Raharja">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Asuransi"/>
+        <TubesBUMNdiIndonesia:ProdukAsuransi rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Kecelakaan"/>
+        <TubesBUMNdiIndonesia:ProdukAsuransi rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Tanggung_Jawab"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jasindo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jasindo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Asuransi"/>
+        <TubesBUMNdiIndonesia:ProdukAsuransi rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Harta_Benda"/>
+        <TubesBUMNdiIndonesia:ProdukAsuransi rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Asuransi_Pengangkutan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Kesehatan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Kesehatan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor_Badan_Usaha"/>
+        <TubesBUMNdiIndonesia:NamaPerusahaan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Biofarma"/>
+        <TubesBUMNdiIndonesia:TipeJasa rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Farmasi"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Ketat -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Ketat"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Keuangan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Keuangan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Khusus_Individu_Disabilitas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Khusus_Individu_Disabilitas"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Khusus_Putra_Putri_Papua -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Khusus_Putra_Putri_Papua"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Telekomunikasi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Layanan_Telekomunikasi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Mandiri_Tabungan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Mandiri_Tabungan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Product_BUMN"/>
+        <TubesBUMNdiIndonesia:JenisProduk rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Tabungan"/>
+        <TubesBUMNdiIndonesia:PenyediaProduk rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Bank_Mandiri"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Manufaktur -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Manufaktur">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor_Badan_Usaha"/>
+        <TubesBUMNdiIndonesia:NamaPerusahaan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Krakatau_Steel"/>
+        <TubesBUMNdiIndonesia:TipeJasa rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Memproduksi_Besi"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Memproduksi_Besi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Memproduksi_Besi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Organ_dan_Sumber_Daya_Manusia_BUMN -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Organ_dan_Sumber_Daya_Manusia_BUMN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PERPRES_Nomor_21_Tahun_2023 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PERPRES_Nomor_21_Tahun_2023"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PLN -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PLN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._23_Tahun_1994 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._23_Tahun_1994"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._25_Tahun_1991 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._25_Tahun_1991"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._31_Tahun_2003 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._31_Tahun_2003"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Biofarma -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Biofarma"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Danareksa -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Danareksa"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Krakatau_Steel -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Krakatau_Steel"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Bank_Mandiri -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Bank_Mandiri"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Pertamina -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Pertamina">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Badan_Usaha"/>
+        <TubesBUMNdiIndonesia:DasarHukum rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._31_Tahun_2003"/>
+        <TubesBUMNdiIndonesia:NamaDagang rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pertamina"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Perusahaan_Listrik_Negara -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Perusahaan_Listrik_Negara">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Badan_Usaha"/>
+        <TubesBUMNdiIndonesia:NamaDagang rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PLN"/>
+        <TubesBUMNdiIndonesia:NamaDagang rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._23_Tahun_1994"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Telkom_Indonesia -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Telkom_Indonesia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Badan_Usaha"/>
+        <TubesBUMNdiIndonesia:DasarHukum rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PP_No._25_Tahun_1991"/>
+        <TubesBUMNdiIndonesia:NamaDagang rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Telkom_Indonesia"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pemberian_Persetujuan_Usulan_Aksi_Korporasi_BUMN -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pemberian_Persetujuan_Usulan_Aksi_Korporasi_BUMN">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Standar_Pelayanan_BUMN"/>
+        <TubesBUMNdiIndonesia:DokumenPersyaratan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Surat_permohonan_aksi_korporasi"/>
+        <TubesBUMNdiIndonesia:WaktuPelayanan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#22_hari"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pemberian_Persetujuan_atas_Laporan_Tahunan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pemberian_Persetujuan_atas_Laporan_Tahunan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Standar_Pelayanan_BUMN"/>
+        <TubesBUMNdiIndonesia:DokumenPersyaratan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Surat_Permohonan_Persetujuan_Pengesahan_RKAP"/>
+        <TubesBUMNdiIndonesia:WaktuPelayanan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#31_hari"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peminjaman_Kredit_Usaha -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peminjaman_Kredit_Usaha"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peminjaman_Umum -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peminjaman_Umum"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pengesahan_Rencana_Kerja_dan_Anggaran_Perusahaan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pengesahan_Rencana_Kerja_dan_Anggaran_Perusahaan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Standar_Pelayanan_BUMN"/>
+        <TubesBUMNdiIndonesia:DokumenPersyaratan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Rancangan_RKAP"/>
+        <TubesBUMNdiIndonesia:WaktuPelayanan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#31_hari"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pengganti_UU_No_2_Tahun_2022 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pengganti_UU_No_2_Tahun_2022"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Penjaminan_Umum -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Penjaminan_Umum"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_Menteri_BUMN -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_Menteri_BUMN">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_BUMN"/>
+        <TubesBUMNdiIndonesia:IsiPeraturan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Organ_dan_Sumber_Daya_Manusia_BUMN"/>
+        <TubesBUMNdiIndonesia:NoPeraturan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PER-3/MBU/03/2023"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_Presiden -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_Presiden">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_BUMN"/>
+        <TubesBUMNdiIndonesia:IsiPeraturan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Hari_Kerja_dan_Jam_Kerja_Instansi"/>
+        <TubesBUMNdiIndonesia:NoPeraturan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PERPRES_Nomor_21_Tahun_2023"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pertamax -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pertamax">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Product_BUMN"/>
+        <TubesBUMNdiIndonesia:JenisProduk rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Bahan_Bakar_Minyak"/>
+        <TubesBUMNdiIndonesia:PenyediaProduk rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT._Pertamina"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pertamina -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pertamina"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Putra-Putri_Papua -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Putra-Putri_Papua">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jalur_Masuk_BUMN"/>
+        <TubesBUMNdiIndonesia:JenisRekrutment rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Khusus_Putra_Putri_Papua"/>
+        <TubesBUMNdiIndonesia:TingkatPersaingan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Ketat"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Rancangan_RKAP -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Rancangan_RKAP"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Rekrutment_Bersama_BUMN -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Rekrutment_Bersama_BUMN">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Jalur_Masuk_BUMN"/>
+        <TubesBUMNdiIndonesia:JenisRekrutment rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Untuk_Seluruh_Individu"/>
+        <TubesBUMNdiIndonesia:TingkatPersaingan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sangat_Ketat"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sangat_Ketat -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sangat_Ketat"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sedang -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sedang"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Surat_Permohonan_Persetujuan_Pengesahan_RKAP -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Surat_Permohonan_Persetujuan_Pengesahan_RKAP"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Surat_permohonan_aksi_korporasi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Surat_permohonan_aksi_korporasi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Tabungan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Tabungan"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Telekomunikasi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Telekomunikasi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Sektor_Badan_Usaha"/>
+        <TubesBUMNdiIndonesia:NamaPerusahaan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PT.Danareksa"/>
+        <TubesBUMNdiIndonesia:TipeJasa rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Keuangan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Telkom_Indonesia -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Telkom_Indonesia"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#UU_Nomor_6_tahun_2023 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#UU_Nomor_6_tahun_2023"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Undang-Undang -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Undang-Undang">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Peraturan_BUMN"/>
+        <TubesBUMNdiIndonesia:IsiPeraturan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Pengganti_UU_No_2_Tahun_2022"/>
+        <TubesBUMNdiIndonesia:NoPeraturan rdf:resource="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#UU_Nomor_6_tahun_2023"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Untuk_Seluruh_Individu -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#Untuk_Seluruh_Individu"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#22_hari -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#22_hari"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#31_hari -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#31_hari"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PER-3/MBU/03/2023 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2023/5/TubesBUMNdiIndonesia#PER-3/MBU/03/2023"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+
